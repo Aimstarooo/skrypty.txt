@@ -1,6 +1,6 @@
-scriptname = Wait
-scriptwork? = work
-script = 1
-enabled? = n
+scriptname = Spyhub v1.0
+scriptwork? = updating
+script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Aimstarooo/SpyHub/refs/heads/main/main.lua"))()
+enabled? = y
 
 
