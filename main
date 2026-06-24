@@ -1,14 +1,14 @@
-scriptname = Spyhub v1.0 by aimstar
-scriptwork? = 
+scriptname = Spyhub v1.0 byaimstar
+scriptwork? = work 
 script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Aimstarooo/SpyHub/refs/heads/main/main.lua"))()
-enabled = n
+enabled = y
 :
-scriptname = ChainsawClient v1.0 by aimstar and dziadeknurik
+scriptname = ChainsawClient v1.0 byaimstar,dziadeknurik
 scriptwork? = unreleased
 script = 1
 enabled = n
 :
-scriptname = Dvloper v1.0 by aimstar
+scriptname = Dvloper v1.0 byaimstar
 scriptwork? = unreleased
 script = 1
 enabled = n
