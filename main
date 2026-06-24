@@ -1,12 +1,12 @@
 scriptname = Spyhub v1.0
 scriptwork? = work
 script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Aimstarooo/SpyHub/refs/heads/main/main.lua"))()
-enabled? = y
+enabled = y
 :
 scriptname = Dvloper 1.0
 scriptwork? = unreleased
 script = 1
-enabled? = n
+enabled = n
 :
 
 
