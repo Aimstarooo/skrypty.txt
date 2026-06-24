@@ -1,0 +1,7 @@
+scriptname = 1
+scriptwork? = updating
+script = print("123")
+:
+scriptname = 1
+scriptwork? = updating
+script = print("123")
