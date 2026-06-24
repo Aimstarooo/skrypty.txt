@@ -1,3 +1,5 @@
+program = on
+;
 scriptname = Spyhub v1.0 byaimstar
 scriptwork? = work 
 script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Aimstarooo/SpyHub/refs/heads/main/main.lua"))()
