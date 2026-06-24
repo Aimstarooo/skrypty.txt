@@ -13,9 +13,9 @@ scriptwork? = unreleased
 script = 1
 enabled = n
 :
-scriptname = TEST dont worry about it :)
-scriptwork? = dontwork
-script = 1
+scriptname = It'll be gone in about 5 minutes
+scriptwork? = work
+script = TEST
 enabled = y
 :
 
