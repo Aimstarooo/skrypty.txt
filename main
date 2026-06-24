@@ -1,7 +1,4 @@
-scriptname = 1
-scriptwork? = updating
-script = print("123")
-:
-scriptname = 1
-scriptwork? = updating
-script = print("123")
+scriptname = Spyhub 1.0
+scriptwork? = 🔴
+script = print("Execute SpyHub :D")
+
