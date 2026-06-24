@@ -1,11 +1,14 @@
 scriptname = Spyhub 1.0
 scriptwork? = work
 script = print("WORK")
+enabled? = y
 :
 scriptname = Dvloper 1.0
 scriptwork? = unreleased
 script = print("UNRELEASED")
+enabled? = n
 :
 scriptname = ChainsawClient 1.0
 scriptwork? = updating
 script = print("12412412414124142124124124124356768")
+enabled? = n
