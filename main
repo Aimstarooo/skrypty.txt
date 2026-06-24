@@ -4,5 +4,5 @@ script = print("Execute SpyHub :D")
 :
 scriptname = Dvloper 1.0
 scriptwork? = unreleased
-script = print("Unreleased")
+script = print("unreleased")
 
