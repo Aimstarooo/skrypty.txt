@@ -27,3 +27,8 @@ scriptname = TEST
 scriptwork? = dontwork
 script = TEST
 enabled? = n
+:
+scriptname = 1
+scriptwork? = updating
+script = 123
+enabled? = y
