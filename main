@@ -8,3 +8,8 @@ scriptname = Dvloper 1.0
 scriptwork? = unreleased
 script = print("unreleased")
 
+:
+
+scriptname = ChainsawClient 1.0
+scriptwork? = updating
+script = print("unreleased")
