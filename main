@@ -13,5 +13,9 @@ scriptwork? = unreleased
 script = 1
 enabled = n
 :
-
+scriptname = TEST dont worry about it :)
+scriptwork? = dontwork
+script = 1
+enabled = y
+:
 
