@@ -1,4 +1,4 @@
 scriptname = Spyhub 1.0
-scriptwork? = 🔴
+scriptwork? = work
 script = print("Execute SpyHub :D")
 
