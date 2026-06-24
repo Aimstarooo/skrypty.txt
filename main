@@ -1,15 +1,6 @@
-scriptname = Spyhub 1.0
+scriptname = Wait
 scriptwork? = work
-script = Wait
-enabled? = y
-:
-scriptname = Dvloper 1.0
-scriptwork? = unreleased
-script = 
+script = 1
 enabled? = n
-:
-scriptname = ChainsawClient 1.0
-scriptwork? = unreleased
-script = 
-enabled? = n
+
 
