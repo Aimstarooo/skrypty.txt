@@ -1,6 +1,6 @@
 scriptname = Spyhub 1.0
 scriptwork? = work
-script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Aimstarooo/SpyHub/refs/heads/main/main.lua"))()
+script = Wait
 enabled? = y
 :
 scriptname = Dvloper 1.0
