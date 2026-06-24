@@ -1,5 +1,5 @@
 scriptname = Spyhub v1.0
-scriptwork? = updating
+scriptwork? = work
 script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Aimstarooo/SpyHub/refs/heads/main/main.lua"))()
 enabled = y
 :
