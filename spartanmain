@@ -3,17 +3,17 @@ keys = {"ajmstarus123", "lifetime"}, {"ZSE2-QPTQ-C63X-6V6T-D6CR", "01.01.2027"}
 labeltitle = Spartan v1.2
 program = on
 ;
-scriptname = Spyhub v1.0 by aimstar
+scriptname = Spyhub v1.0
 scriptwork? = work
 script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Aimstarooo/SpyHub/refs/heads/main/main.lua"))()
 enabled = y
 :
-scriptname = ChainsawCli v1.0 by aimstar,dziadeknurik
+scriptname = ChainsawCli v1.0
 scriptwork? = unreleased
 script = 
 enabled = n
 :
-scriptname = dvloper v1.0 by aimstar
+scriptname = dvloper v1.0
 scriptwork? = unreleased
 script = 
 enabled = n
