@@ -2,7 +2,6 @@ keys = {"ajmstarus123", "lifetime"}, {"WL6B6-PKST3-SYF79-A3MT5", "28.07.2026"}
 ;
 labeltitle = Spartan v1.2
 program = on
-newversion = 1.2 = 123.test
 ;
 scriptname = Spyhub v1.0
 scriptwork? = work
