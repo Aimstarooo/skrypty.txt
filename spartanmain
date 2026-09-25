@@ -8,10 +8,10 @@ scriptwork? = work
 script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Aimstarooo/SpyHub/refs/heads/main/main.lua"))()
 enabled = y
 :
-scriptname = dvloper v1.0
+scriptname = Dvloper v1.0
 scriptwork? = work
 script = https://raw.githubusercontent.com/Aimstarooo/skrypty.txt/refs/heads/main/Dvloper.lua
-enabled = n
+enabled = y
 :
 scriptname = ChainsawCli v1.0
 scriptwork? = unreleased
