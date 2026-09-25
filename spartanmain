@@ -1,6 +1,6 @@
 keys = {"ajmstarus123", "lifetime"}, {"WL6B6-PKST3-SYF79-A3MT5", "28.07.2026"}
 ;
-labeltitle = Spartan v1.2
+labeltitle = Spartan (LastUpdate 25.09.2026)
 program = on
 ;
 scriptname = Spyhub v1.0
@@ -8,13 +8,14 @@ scriptwork? = work
 script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Aimstarooo/SpyHub/refs/heads/main/main.lua"))()
 enabled = y
 :
+scriptname = dvloper v1.0
+scriptwork? = work
+script = https://raw.githubusercontent.com/Aimstarooo/skrypty.txt/refs/heads/main/Dvloper.lua
+enabled = n
+:
 scriptname = ChainsawCli v1.0
 scriptwork? = unreleased
 script = 
 enabled = n
 :
-scriptname = dvloper v1.0
-scriptwork? = updating
-script = 
-enabled = n
-:
+
