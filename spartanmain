@@ -10,7 +10,7 @@ enabled = y
 :
 scriptname = Dvloper v1.0
 scriptwork? = work
-script = https://raw.githubusercontent.com/Aimstarooo/skrypty.txt/refs/heads/main/Dvloper.lua
+script = loadstring(game:HttpGet('https://raw.githubusercontent.com/Aimstarooo/skrypty.txt/refs/heads/main/Dvloper.lua'))()
 enabled = y
 :
 scriptname = ChainsawCli v1.0
